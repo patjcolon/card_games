@@ -28,7 +28,7 @@ Future Plans include:
       when card is deleted, the book keeper's reopened_slots list will now include the index/key for
       the destroyed card. new cards will pull index number from this list first, then overwrite
       deleted card values from these keys.
-- Create a BookKeeper class to maintain/track certain objects like cards and other objects.
+- Create a BookKeeper class to maintain/track certain objects like cards as well as other values.
 
 
 Gameplay Plan:
